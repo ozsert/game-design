@@ -1,0 +1,10 @@
+# Claude Code local settings
+.claude/settings.local.json
+
+# Game design output documents
+*_DESIGN_*.md
+
+# macOS
+.DS_Store
+
+arch/
